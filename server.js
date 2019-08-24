@@ -4,7 +4,7 @@ var logger = require("morgan");
 var exphbs = require("express-handlebars");
 
 // If deployed, use the deployed database. Otherwise use the local mongoHeadlines database
-var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/MongoScraper";
+var MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/mongoHeadlines";
 
 //Set up our port to be either the host's designated port, or 3000
 var PORT = process.env.PORT || 3000;
