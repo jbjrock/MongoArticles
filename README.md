@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to MongoArticles 👋</h1>
+<h1 align="center">Welcome to (NYT Scraper) 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://still-island-51280.herokuapp.com/">
+  <a href="https://github.com/jbjrock/MongoArticles#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
   <a href="https://github.com/jbjrock/MongoArticles/graphs/commit-activity">
@@ -12,20 +12,14 @@
   </a>
 </p>
 
-> This application is used to scrape, save and delete articles from the New York Times. The technologies used are Express-Handlebars,Express,Mongoose, Morgan, Cheerio and Axios.
+> This application will allow you to scrape, save and delete articles from the New York Times website!
 
-### 🏠 [Homepage](https://github.com/jbjrock/MongoArticles#readme)
+### 🏠 [Homepage](https://still-island-51280.herokuapp.com/)
 
 ## Install
 
 ```sh
-npm install
-```
-
-## Run tests
-
-```sh
-npm run test
+node server.js
 ```
 
 ## Author
@@ -33,10 +27,6 @@ npm run test
 👤 **Jarvis Maness**
 
 * Github: [@jbjrock](https://github.com/jbjrock)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/jbjrock/MongoArticles/issues).
 
 ## Show your support
 
