@@ -1,5 +1,5 @@
 body {
-    background-image: url("/public/assets/images/paper.png");
+    background-image: url("../images/paper.png");
     padding-top: 70px;
 }
 
